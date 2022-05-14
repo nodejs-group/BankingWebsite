@@ -1,4 +1,4 @@
-# ImgVerse
+# BankingWebsite
 A web app for net banking
 
 
