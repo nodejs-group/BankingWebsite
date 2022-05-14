@@ -1,0 +1,22 @@
+{
+  "name": "bankweb",
+  "version": "1.0.0",
+  "description": "Your own photo gallery Webapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodejs-group/ImgVerse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodejs-group/ImgVerse/issues"
+  },
+  "homepage": "https://github.com/nodejs-group/ImgVerse#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
