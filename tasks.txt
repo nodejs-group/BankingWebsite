@@ -1,0 +1,42 @@
+Prem:-
+Fund transfer section
+Connecting & checking for errors
+
+
+
+
+
+Ben10:-
+Session handling
+
+
+
+
+
+Neetu:-
+Transactions model
+Transactions controller
+
+
+
+
+Sangeet:-
+User Model
+User signup
+
+
+
+Bhushan:-
+user database
+transactions database
+balance logic
+
+
+
+Shubham:-
+Login page
+phone & email confirmation
+
+
+
+
