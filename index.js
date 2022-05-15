@@ -12,6 +12,7 @@ app.set('views','templates')
 app.use(express.json())
 app.use(express.urlencoded())
 
+
 app.use(userRouter)
 
 
